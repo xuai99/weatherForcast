@@ -8,4 +8,5 @@ Application Created using Volley Library to read API form WeatherAPI, Get Data a
 4. based on phone location get location name and check weather information when application start. 
 
 <img src="https://user-images.githubusercontent.com/43243626/116403947-bd3ab480-a860-11eb-8630-fca17e27f426.png" alt="alt text" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/43243626/116404676-74cfc680-a861-11eb-9f17-d92c54d978b8.png" alt="alt text" width="200" height="300">
 
